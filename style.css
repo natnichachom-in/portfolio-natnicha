@@ -55,7 +55,7 @@ a {
 }
 
 a:hover {
-  color: grey;
+  color: rgb(85, 0, 0);
   text-decoration: underline;
   text-underline-offset: 1rem;
   text-decoration-color: rgb(181, 181, 181);
@@ -299,9 +299,9 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: white;
+  background: rgb(191, 250, 250);
   border-radius: 2rem;
-  border: rgb(53, 53, 53) 0.1rem solid;
+  border: rgb(0, 0, 0) 0.1rem solid;
   border-color: rgb(163, 163, 163);
   text-align: center;
 }
@@ -324,7 +324,7 @@ section {
 }
 
 .experience-sub-title {
-  color: rgb(85, 85, 85);
+  color: rgb(0, 77, 150);
   font-weight: 600;
   font-size: 1.75rem;
   margin-bottom: 2rem;
@@ -375,7 +375,7 @@ article .icon {
 
 .project-title {
   margin: 1rem;
-  color: black;
+  color: rgb(0, 75, 65);
 }
 
 .project-btn {
